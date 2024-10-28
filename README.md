@@ -27,6 +27,10 @@ Always working with science and technology. Work in industrial areas, electronic
   
 </div>
 
+📑 ## Currently Learning
+
+.Net Maui
+
 📬 ## Contact
 
 [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-varj%C3%A3o-9b2874a1/?locale=en_US)
