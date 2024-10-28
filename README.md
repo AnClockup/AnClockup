@@ -1,4 +1,6 @@
-👨🏾‍💻## Hi! I'm Anderson 👋
+👨🏾‍💻 ## Hi! I'm Anderson 👋<br>
+Always working with science and technology. Work in industrial areas, electronic projects and fanshubber. Studying ADS and Information Technology.
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Program+and+develop+solutions;Creative+and+innovative+contributions;Thank+you+for+visiting)](https://git.io/typing-svg)
 ##
 ![GIF animado](https://c.tenor.com/2fXbn6Xtt0UAAAAC/tenor.gif)
@@ -10,9 +12,9 @@
 
 ![AnClockup GitHub stats](https://github-readme-stats.vercel.app/api?username=AnClockup&show_icons=true&theme=radical)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnClockup&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-🧙🏽‍♂️## Tecnology
+
+🧙🏽‍♂️ ## Tecnology
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -24,3 +26,7 @@
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   
 </div>
+
+📬 ## Contact
+
+[![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-varj%C3%A3o-9b2874a1/?locale=en_US)
