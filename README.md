@@ -1,5 +1,6 @@
 👨🏾‍💻 ## Hi! I'm Anderson 👋<br>
-Always working with science and technology. Work in industrial areas, electronic projects and fanshubber. Studying ADS and Information Technology.
+Always working with science and technology. Work in industrial areas, electronic projects and fanshubber.<br>
+Studying ADS and Information Technology.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Program+and+develop+solutions;Creative+and+innovative+contributions;Thank+you+for+visiting)](https://git.io/typing-svg)
 ##
