@@ -13,7 +13,7 @@ Studying ADS and Information Technology.
 
 ![AnClockup GitHub stats](https://github-readme-stats.vercel.app/api?username=AnClockup&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnClockup&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnClockup&layout=pie)](https://github.com/AnClockup/github-readme-stats)
 
 🧙🏽‍♂️ ## Tecnology
 
