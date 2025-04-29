@@ -28,7 +28,7 @@ Studying ADS and Information Technology.
     <img align="center" alt="C#" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   
 </div>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cc63308b-2d3a-4ae9-9925-74cba6ad1ac2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 📑 ## Currently Learning
 
 .Net Maui
