@@ -1,6 +1,6 @@
 👨🏾‍💻 ## Hi! I'm Anderson 👋<br>
 Always working with science and technology. Work in industrial areas, electronic projects and fanshubber.<br>
-Studying ADS and Information Technology.
+Studying ADS and Information Technology.<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Program+and+develop+solutions;Creative+and+innovative+contributions;Thank+you+for+visiting)](https://git.io/typing-svg)
 ##
@@ -11,9 +11,9 @@ Studying ADS and Information Technology.
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Pou45/featured)
 
-![AnClockup GitHub stats](https://github-readme-stats.vercel.app/api?username=AnClockup&show_icons=true&theme=radical)
+![AnClockup GitHub stats](https://github-readme-stats.vercel.app/api?username=AnClockup&show_icons=true&theme=radical)<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnClockup&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnClockup&langs_count=8)<br>
 
 🧙🏽‍♂️ ## Tecnology
 
