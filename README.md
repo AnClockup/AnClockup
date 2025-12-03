@@ -7,9 +7,9 @@ Studying ADS and Information Technology.<br>
 ![GIF animado](https://c.tenor.com/2fXbn6Xtt0UAAAAC/tenor.gif)
 ![GIF animado](https://c.tenor.com/sGv2hrQnMHQAAAAC/tenor.gif)
 ##
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://padlet.com/varjao2003/ddevsoftware-hb87m36ksrbidfe)
+[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://padlet.com/varjao2003/ddevsoftware-hb87m36ksrbidfe)<br>
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Pou45/featured)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Pou45/featured)<br>
 
 ![AnClockup GitHub stats](https://github-readme-stats.vercel.app/api?username=AnClockup&show_icons=true&theme=radical)<br>
 
